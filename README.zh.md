@@ -11,7 +11,7 @@ Wildmonkey
 * 轻量级。
 * 支持用户脚本自动和手动执行。
 * 支持两种类型用户脚本，JavaScript 和 CSS。
-* 兼容所有 Web Extension 浏览器，包括移动版。
+* 支持所有 Web Extension 浏览器，包括移动版。
 
 常见问题
 --------
@@ -28,8 +28,8 @@ Wildmonkey
 
 现有的 Greasemoneky 类型扩展没有针对移动版浏览器优化。
 
-文档
-----
+使用手册
+--------
 
 TODO
 
