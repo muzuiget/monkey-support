@@ -1,6 +1,8 @@
 Wildmonkey
 ==========
 
+[English](./README.md)
+
 轻量级用户脚本管理器
 
 特性
