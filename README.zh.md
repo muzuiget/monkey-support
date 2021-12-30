@@ -19,13 +19,11 @@ Wildmonkey
 **这是 Greasemoneky 类型扩展代替品吗？**
 
 不是，因为不支持这类扩展所使用的非标准的 JavaScript 特性（又叫 GM API）。
-
 但是后续版本可能以 polyfill 的方式来兼容部分 GM API。
 
 **开发此扩展的目的？**
 
 为了在移动版浏览器上能够执行简单的用户脚本。
-
 现有的 Greasemoneky 类型扩展没有针对移动版浏览器优化。
 
 文档
