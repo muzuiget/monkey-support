@@ -28,6 +28,11 @@ In order to execute simple userscripts on mobile browsers.
 
 Existing Greasemoneky-like extensions are not optimized for mobile browsers.
 
+Tutorial
+--------
+
+TODO
+
 Manual
 ------
 
