@@ -46,4 +46,8 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
-TODO
+### v0.1.0
+
+Release Date: 2022-01-02
+
+* First publish release version.
