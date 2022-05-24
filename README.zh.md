@@ -29,8 +29,8 @@ Wildmonkey
 
 安装之后，默认在生成两个作用在 https://www.example.com/ 上的用户脚本：
 
-* 将标题改成 `Hello World`。
-* 将正文字体改成绿色。
+* 使用 JavaScript 将标题改成 `Hello World`。
+* 使用 CSS 将正文字体改成绿色。
 
 你可以在扩展设置页面里管理用户脚本。
 
