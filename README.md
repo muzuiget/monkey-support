@@ -46,8 +46,15 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
-### v0.1.0
+### v0.2.0 / 2022-05-24
 
-Release Date: 2022-01-02
+* Improve url pattern matching algorithm.
+* Update build configurations.
+
+### v0.1.1 / 2022-03-14
+
+* Update build configurations.
+
+### v0.1.0 / 2022-01-02
 
 * First publish release version.
