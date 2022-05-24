@@ -32,7 +32,7 @@ Wildmonkey
 * 使用 JavaScript 将标题改成 `Hello World`。
 * 使用 CSS 将正文字体改成绿色。
 
-你可以在扩展设置页面里管理用户脚本。
+用户可以在扩展设置页面里管理用户脚本。
 
 用户脚本
 --------
@@ -50,7 +50,7 @@ Wildmonkey
 
 自动执行代码的网址表达式。
 
-格式为 [Match Patterns](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Match_patterns)，即用 `*` 表示一个或多个字符，每行一个表达式。
+格式为 [Match Patterns](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Match_patterns)，即用 `*` 表示零个或多个字符，每行一个表达式。
 
 但是添加了以下限制：
 
