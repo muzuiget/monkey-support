@@ -13,8 +13,8 @@ Wildmonkey
 * 支持两种类型用户脚本，JavaScript 和 CSS。
 * 支持所有 Web Extension 浏览器，包括移动版。
 
-常见问题
---------
+问与答
+------
 
 **这是 Greasemoneky 类型扩展代替品吗？**
 
