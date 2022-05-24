@@ -27,7 +27,7 @@ Wildmonkey
 使用教程
 --------
 
-安装之后，默认在生成两个在 [https://www.example.com/]() 上执行的用户脚本：
+安装之后，默认在生成两个在 https://www.example.com/ 上执行的用户脚本：
 
 * 使用 JavaScript 将标题改成 `Hello World`。
 * 使用 CSS 将正文字体改成绿色。
