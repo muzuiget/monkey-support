@@ -27,7 +27,12 @@ In order to execute simple userscripts on mobile browsers, existing Greasemoneky
 Tutorial
 --------
 
-TODO
+After installation, by default two user scripts are generated to execute on [https://www.example.com/]():
+
+* Use JavaScript to change the title to `Hello World`.
+* Use CSS to change the body font to green.
+
+You can manage userscripts in the extension settings page.
 
 Userscript
 ----------
