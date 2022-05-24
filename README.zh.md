@@ -18,15 +18,11 @@ Wildmonkey
 
 **这是 Greasemoneky 类型扩展代替品吗？**
 
-不是，因为不支持这类扩展所使用的非标准的 JavaScript 特性（又叫 GM API）。
-
-但是后续版本可能以 polyfill 的方式来兼容部分 GM API。
+不是，因为不支持这类扩展所使用的非标准的 JavaScript 特性（又叫 GM API），但是后续版本可能以 polyfill 的方式来兼容部分 GM API。
 
 **开发此扩展的目的？**
 
-为了在移动版浏览器上执行简单的用户脚本。
-
-现有的 Greasemoneky 类型扩展没有针对移动版浏览器优化。
+为了在移动版浏览器上执行简单的用户脚本，现有的 Greasemoneky 类型扩展没有针对移动版浏览器优化。
 
 使用教程
 --------
@@ -54,9 +50,9 @@ Wildmonkey
 
 自动执行代码的网址表达式。
 
-格式为 [Match Pattern](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Match_patterns)，即用 `*` 表示一个或多个字符，每行一个表达式。
+格式为 [Match Patterns](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Match_patterns)，即用 `*` 表示一个或多个字符，每行一个表达式。
 
-但是有如下限制：
+但是添加了以下限制：
 
 * 不支持特殊表达式 `<all_urls>`。
 * `scheme` 仅能使用 `http` 和 `https`。
