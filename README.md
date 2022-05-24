@@ -37,7 +37,26 @@ You can manage userscripts in the extension settings page.
 Userscript
 ----------
 
-TODO
+### Type
+
+Two types are supported:
+
+* `Page Script` Execute JavaScript code.
+* `Page Style` Execute CSS code.
+
+When `None` is selected, the code will not executed, equivalent to a draft or disabled status.
+
+### Urls
+
+URL patterns to automatically execute code.
+
+The format is [Match Patterns](https://developer.mozilla.org/zh-CN/docs/Mozilla/Add-ons/WebExtensions/Match_patterns), use `*` to represent one or more characters, and one pattern per line.
+
+But the following restrictions are added:
+
+* The special pattern `<all_urls>` is not supported.
+* `scheme` can only be `http` or `https`.
+
 
 Feedback
 --------
