@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.5.1 / 2022-07-31
+
+* Update build configurations.
+
 ### v0.5.0 / 2022-06-20
 
 * Upgrade to React 18.
