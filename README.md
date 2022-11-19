@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.7.0 / 2022-11-19
+
+* Refactory for migrating to Manifest V3.
+
 ### v0.6.0 / 2022-09-20
 
 * Update build configurations.
