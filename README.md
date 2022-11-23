@@ -67,6 +67,11 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.8.0 / 2022-11-24
+
+* Improve some UI widget styles.
+* Replace the icons with Material Symbols.
+
 ### v0.7.0 / 2022-11-19
 
 * Refactory for migrating to Manifest V3.
