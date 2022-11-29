@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.9.0 / 2022-11-29
+
+* Improve some UI widget styles.
+
 ### v0.8.0 / 2022-11-24
 
 * Improve some UI widget styles.
