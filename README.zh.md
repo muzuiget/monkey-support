@@ -18,7 +18,7 @@ Wildmonkey
 
 **这是 Greasemoneky 类型扩展代替品吗？**
 
-不是，因为不支持这类扩展所使用的非标准的 JavaScript 特性（又叫 GM API），但是后续版本可能以 polyfill 的方式来兼容部分 GM API。
+不是，不支持这类扩展所使用的非标准的 JavaScript 特性，即那些以 `GM_` 开头的函数。
 
 **开发此扩展的目的？**
 
@@ -27,12 +27,12 @@ Wildmonkey
 使用教程
 --------
 
-安装之后，默认在生成两个在 https://www.example.com/ 上执行的用户脚本：
+安装之后，默认生成两个示例用户脚本：
 
-* 使用 JavaScript 将标题改成 `Hello World`。
 * 使用 CSS 将正文字体改成绿色。
+* 使用 JavaScript 格式化 JSON。
 
-用户可以在扩展设置页面里管理用户脚本。
+你可以在 <https://httpbin.org/headers> 测试这两个示例用户脚本的效果。
 
 用户脚本
 --------
@@ -41,8 +41,8 @@ Wildmonkey
 
 支持两种类型：
 
-* `页面脚本` 执行 JavaScript 代码。
 * `页面样式` 执行 CSS 代码。
+* `页面脚本` 执行 JavaScript 代码。
 
 当选择 `无` 时，不执行代码，相当于草稿或禁用状态。
 
