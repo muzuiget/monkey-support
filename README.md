@@ -18,7 +18,7 @@ FAQ
 
 **Is this a replacement for Greasemoneky-like extensions?**
 
-No, because it does not support the non-standard JavaScript features used by such extensions (aka GM API), part of GM API may be compatible with polyfill in the future.
+No, it does not support the non-standard JavaScript features used by such extensions, the functions which the name starts with `GM_`.
 
 **Why develop this extension?**
 
@@ -27,12 +27,12 @@ In order to execute simple userscripts on mobile browsers, existing Greasemoneky
 Tutorial
 --------
 
-After installation, by default two user scripts are generated to execute on https://www.example.com/:
+After installation, by default two userscripts are generated for example:
 
-* Use JavaScript to change the title to `Hello World`.
 * Use CSS to change the body font to green.
+* Use JavaScript to format the JSON text.
 
-You can manage userscripts in the extension settings page.
+You can test these two example userscripts at <https://httpbin.org/headers>.
 
 Userscript
 ----------
@@ -41,8 +41,8 @@ Userscript
 
 Two types are supported:
 
-* `Page Script` Execute JavaScript code.
 * `Page Style` Execute CSS code.
+* `Page Script` Execute JavaScript code.
 
 When `None` is selected, the code will not executed, equivalent to a draft or disabled status.
 
