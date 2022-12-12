@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.12.0 / 2022-12-11
+
+* Upgrade to Manifest V3.
+
 ### v0.11.0 / 2022-12-09
 
 * Refactory UI component code.
