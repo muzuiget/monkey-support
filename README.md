@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.13.0 / 2022-12-13
+
+* Cleanup Manifest V2 compatible code.
+
 ### v0.12.0 / 2022-12-11
 
 * Upgrade to Manifest V3.
@@ -81,11 +85,11 @@ Changelog
 
 ### v0.9.0 / 2022-11-29
 
-* Improve some UI widget styles.
+* Improve some UI component styles.
 
 ### v0.8.0 / 2022-11-24
 
-* Improve some UI widget styles.
+* Improve some UI component styles.
 * Replace the icons with Material Symbols.
 
 ### v0.7.0 / 2022-11-19
