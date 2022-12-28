@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.13.1 / 2022-12-28
+
+* Update build configurations.
+
 ### v0.13.0 / 2022-12-13
 
 * Cleanup Manifest V2 compatible code.
