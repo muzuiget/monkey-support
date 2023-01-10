@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.13.2 / 2023-01-10
+
+* Reduce the icon file size.
+
 ### v0.13.1 / 2022-12-28
 
 * Update build configurations.
