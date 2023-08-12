@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.13.8 / 2023-08-12
+
+* Update build configurations.
+
 ### v0.13.7 / 2023-07-08
 
 * Update build configurations.
