@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.14.0 / 2023-10-03
+
+* Add support for Orion browser.
+
 ### v0.13.8 / 2023-08-12
 
 * Update build configurations.
