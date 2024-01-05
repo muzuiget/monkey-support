@@ -67,6 +67,10 @@ Please use the Issues system of this repository.
 Changelog
 ---------
 
+### v0.16.1 / 2024-01-06
+
+* Some code refactoring.
+
 ### v0.16.0 / 2024-01-03
 
 * Some code refactoring.
