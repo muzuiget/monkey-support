@@ -1,20 +1,17 @@
-Wildmonkey
-==========
+# Wildmonkey
 
 [中文](./README.zh.md)
 
 Lightweight userscript manager.
 
-Features
---------
+## Features
 
 * Lightweight.
 * Supports execute userscripts automatically and manually.
 * Supports two types of userscripts, JavaScript and CSS.
 * Supports all Web Extension browsers, including mobile browsers.
 
-FAQ
----
+## FAQ
 
 **Is this a replacement for Greasemoneky-like extensions?**
 
@@ -24,8 +21,7 @@ No, it does not support the non-standard JavaScript features used by such extens
 
 In order to execute simple userscripts on mobile browsers, existing Greasemoneky-like extensions are not optimized for mobile browsers.
 
-Tutorial
---------
+## Tutorial
 
 After installation, by default two userscripts are generated for example:
 
@@ -34,8 +30,7 @@ After installation, by default two userscripts are generated for example:
 
 You can test these two example userscripts at <https://httpbin.org/headers>.
 
-Userscript
-----------
+## Userscript
 
 ### Type
 
@@ -59,13 +54,11 @@ But the following restrictions are added:
 
 When no URL is matched, a clickable button is displayed on the extension popup page, and the user can click the button to execute the code manually.
 
-Feedback
---------
+## Feedback
 
 Please use the Issues system of this repository.
 
-Changelog
----------
+## Changelog
 
 ### v0.16.2 / 2024-04-08
 
