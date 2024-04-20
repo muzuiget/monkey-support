@@ -60,6 +60,10 @@ Please use the Issues system of this repository.
 
 ## Changelog
 
+### v0.17.1 / 2024-04-20
+
+* Compatible with Firefox for Android.
+
 ### v0.17.0 / 2024-04-16
 
 * Some code refactoring.
