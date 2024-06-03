@@ -60,6 +60,11 @@ Please use the Issues system of this repository.
 
 ## Changelog
 
+### v0.18.0 / 2024-06-03
+
+* Update extension user interface.
+* Update to React 18.3.1.
+
 ### v0.17.1 / 2024-04-20
 
 * Compatible with Firefox for Android.
