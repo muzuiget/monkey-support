@@ -66,10 +66,6 @@ Please use the Issues system of this repository.
 
 ### v0.18.0 / 2024-06-03
 
-* Replace React with Preact.
-
-### v0.18.0 / 2024-06-03
-
 * Update extension user interface.
 * Update to React 18.3.1.
 
