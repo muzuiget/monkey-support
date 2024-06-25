@@ -60,6 +60,10 @@ Please use the Issues system of this repository.
 
 ## Changelog
 
+### v0.19.1 / 2024-06-25
+
+* Update build configurations.
+
 ### v0.19.0 / 2024-06-23
 
 * Replace React with Preact.
