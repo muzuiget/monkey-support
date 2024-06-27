@@ -60,6 +60,10 @@ Please use the Issues system of this repository.
 
 ## Changelog
 
+### v0.19.2 / 2024-06-27
+
+* Update UI code.
+
 ### v0.19.1 / 2024-06-25
 
 * Update build configurations.
