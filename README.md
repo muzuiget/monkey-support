@@ -60,6 +60,10 @@ Please use the Issues system of this repository.
 
 ## Changelog
 
+### v0.20.0 / 2024-07-03
+
+* Remove the Traditional Chinese interface language.
+
 ### v0.19.2 / 2024-06-27
 
 * Update UI code.
