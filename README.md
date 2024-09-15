@@ -60,6 +60,11 @@ Please use the Issues system of this repository.
 
 ## Changelog
 
+### v0.20.3 / 2024-09-15
+
+* Update library Preact.
+* Update the extension icons.
+
 ### v0.20.2 / 2024-08-19
 
 * Update library Preact.
