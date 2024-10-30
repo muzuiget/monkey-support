@@ -60,6 +60,11 @@ Please use the Issues system of this repository.
 
 ## Changelog
 
+### v0.20.4 / 2024-10-30
+
+* Update library Preact.
+* Fix the issue on Chrome 130.
+
 ### v0.20.3 / 2024-09-15
 
 * Update library Preact.
