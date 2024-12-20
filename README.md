@@ -60,6 +60,10 @@ Please use the Issues system of this repository.
 
 ## Changelog
 
+### v0.21.1 / 2024-12-20
+
+* Update build configurations.
+
 ### v0.21.0 / 2024-12-10
 
 * Update build configurations.
