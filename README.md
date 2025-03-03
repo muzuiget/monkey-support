@@ -60,6 +60,10 @@ Please use the Issues system of this repository.
 
 ## Changelog
 
+### v0.22.2 / 2025-03-03
+
+* Maintenance update.
+
 ### v0.22.1 / 2025-02-22
 
 * Maintenance update.
