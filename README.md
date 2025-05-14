@@ -4,33 +4,7 @@
 
 Lightweight userscript manager.
 
-## Features
-
-* Lightweight.
-* Supports execute userscripts automatically and manually.
-* Supports two types of userscripts, JavaScript and CSS.
-* Supports all Web Extension browsers, including mobile browsers.
-
-## FAQ
-
-**Is this a replacement for Greasemoneky-like extensions?**
-
-No, it does not support the non-standard JavaScript features used by such extensions, the functions which the name starts with `GM_`.
-
-**Why develop this extension?**
-
-In order to execute simple userscripts on mobile browsers, existing Greasemoneky-like extensions are not optimized for mobile browsers.
-
-## Tutorial
-
-After installation, by default two userscripts are generated for example:
-
-* Use CSS to change the body font to green.
-* Use JavaScript to format the JSON text.
-
-You can test these two example userscripts at <https://httpbin.org/headers>.
-
-## Userscript
+## Settings
 
 ### Type
 
