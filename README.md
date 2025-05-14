@@ -28,10 +28,6 @@ But the following restrictions are added:
 
 When no URL is matched, a clickable button is displayed on the extension popup page, and the user can click the button to execute the code manually.
 
-## Feedback
-
-Please use the Issues system of this repository.
-
 ## Changelog
 
 ### v0.22.6 / 2025-05-07
