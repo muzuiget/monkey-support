@@ -2,8 +2,6 @@
 
 [中文](./README.zh.md)
 
-Lightweight userscript manager.
-
 ## Settings
 
 ### Type
