@@ -1,4 +1,5 @@
 # Wildmonkey
 
-[中文](./README.zh.md)
+* [English](./DOCS.md)
+* [中文](./DOCS.zh.md)
 

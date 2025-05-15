@@ -1,4 +1,0 @@
-# Wildmonkey
-
-[English](./README.md)
-
