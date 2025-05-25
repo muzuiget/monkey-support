@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.23.0 - 2025-05-25
+
+* Update user interfaces.
+
 ## v0.22.6 - 2025-05-07
 
 * Maintenance update.
