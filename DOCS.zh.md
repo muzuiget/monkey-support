@@ -6,8 +6,8 @@
 
 支持两种类型：
 
-* `页面样式` 执行 CSS 代码。
-* `页面脚本` 执行 JavaScript 代码。
+* `CSS` 执行 CSS 代码。
+* `JavaScript` 执行 JavaScript 代码。
 
 当选择 `无` 时，不执行代码，相当于草稿或禁用状态。
 

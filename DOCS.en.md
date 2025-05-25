@@ -6,8 +6,8 @@
 
 Two types are supported:
 
-* `Page Style` Execute CSS code.
-* `Page Script` Execute JavaScript code.
+* `CSS` Execute CSS code.
+* `JavaScript` Execute JavaScript code.
 
 When `None` is selected, the code will not executed, equivalent to a draft or disabled status.
 
