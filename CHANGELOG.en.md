@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.24.0 - 2025-07-19
+
+* Maintenance update.
+
 ## v0.23.2 - 2025-06-24
 
 * Maintenance update.
