@@ -1,5 +1,9 @@
 # Changelog
 
+## v0.25.0 - 2026-08-01
+
+* Add a deprecation notice.
+
 ## v0.24.5 - 2026-07-22
 
 * Maintenance update.
